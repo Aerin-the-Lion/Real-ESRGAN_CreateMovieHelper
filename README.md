@@ -25,6 +25,9 @@ v1.0現在、realesrgan-ncnn-vulkan.exeで入力を行えるコマンドの最�
 Gitって…どうやって使うの…？
 日本語ノンネイティブの方向けに英語版でリリースしたいが、簡単に切り替えできる方法はないか模索中。
 
+# [再頒布について]
+このプログラムのGitHubのページを貼付いただければ、お好きに改変して再頒布を可能とします。
+
 @file Real-ESRGAN-NV-CreateMovieHelper
 @brief Real-ESRGANで楽に動画化するためのものです。
 @author Aerin the Lion(aka. Lost History)
