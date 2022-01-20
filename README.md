@@ -11,6 +11,10 @@ Simply automation tool for Real-ESRGAN.
 【字幕解説動画】Real-ESRGANを動画素材でも誰でも手軽に使えるようにしてみた【自動化ツール配布】(Real-ESRGAN-NV-CreateMovieHelper)
 https://youtu.be/uapv9Q616P0
 
+# [必要なツール]
+・FFmpeg
+・Real-ESRGAN
+
 # [実装している処理一覧]
 ・読み込んだ動画ファイルのフレームレートを確認し、連番連結時に使用。
 ・前に行った処理にて作られた連番画像があれば、警告を行う。
